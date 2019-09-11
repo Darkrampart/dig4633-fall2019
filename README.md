@@ -3,6 +3,6 @@ Template for course repository
 
 As you complete each lab, you should provide a description of your features and changes here.
 
-## VR Lab: TITLE HERE
+## VR Lab: Farmstead
 
-Lab 0: Added all SDKs and pushed to Github Repository
+Lab 0: Added all SDKs and pushed to Github Repository (9.11.19)
